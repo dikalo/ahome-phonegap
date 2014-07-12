@@ -1,7 +1,7 @@
 ahome-phonegap
 ==============
 
-Java(GWT) API for PhoneGap (http://phonegap.com/)
+Java(GWT) API for PhoneGap (http://opensource.ahome-it.com/#ahome-phonegap)
 
 
 ![](http://opensource.ahome-it.com/imgs/ahomePhoneGap.png)
